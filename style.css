@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: aqua;
+    color: darkblue;
+}
+
+.menu {
+    font-family: cursive;
+    font-size: 25px;
+}
+
+p {
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+#alumini {
+    font-size: 25px;
+}
